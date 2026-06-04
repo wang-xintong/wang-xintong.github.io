@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xintong Wang"
 title_separator          : "-"
 name                     : &name "Xintong Wang"
-description              : &description "Academic website of Xintong Wang"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic website of Xintong Wang 王昕桐, doctoral candidate in philosophy at the University of Maryland, College Park. Her research interests include ethics, philosophy of emotion, and philosophy of art."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wang-xintong.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
