@@ -80,7 +80,7 @@ share: false
 
   <div class="chinese-section">
 
-    <div class="chinese-section-title">教学</div>
+    <div class="chinese-section-title">教学（助教）</div>
 
     <ul class="chinese-list">
       <li>认识你自己：认知科学视角的智慧，2026年春季，UMD</li>
