@@ -40,7 +40,7 @@ share: false
 <div class="chinese-page">
 
   <p>
-    马里兰大学哲学博士候选人。本科毕业于南京大学新闻传播学院；硕士毕业于南京大学哲学系，外国哲学方向。
+    <a href="https://philosophy.umd.edu/directory/xintong-wang">马里兰大学</a>哲学博士候选人。本科毕业于南京大学新闻传播学院；硕士毕业于南京大学哲学系，外国哲学方向。
   </p>
 
   <p>
