@@ -91,6 +91,9 @@ redirect_from:
         Before coming to Maryland, I received my M.A. in Philosophy and B.A. in Journalism from Nanjing University.
       </p>
 
+      <p>
+       You can email me at xtwang@umd.edu. Here is my CV.
+      </p>
     </div>
 
   </div>
