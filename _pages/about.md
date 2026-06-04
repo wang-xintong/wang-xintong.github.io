@@ -92,8 +92,9 @@ redirect_from:
       </p>
 
       <p>
-       You can email me at xtwang@umd.edu. Here is my CV.
+        You can email me at <a href="mailto:xtwang@umd.edu">xtwang@umd.edu</a>. Here is my <a href="/files/cv.pdf">CV</a>.
       </p>
+
     </div>
 
   </div>
