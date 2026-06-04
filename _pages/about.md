@@ -1,4 +1,4 @@
----
+e---
 permalink: /
 title: ""
 author_profile: false
@@ -84,7 +84,7 @@ redirect_from:
     <div class="homepage-text">
 
       <p>
-        I am a doctoral candidate in philosophy at <a href="https://philosophy.umd.edu/directory/xintong-wang">the University of Maryland, College Park</a>. My research lies at the intersection of moral psychology, philosophy of emotion, and philosophy of art. My dissertation explores the “dark sides” of our lives as emotional beings, especially the roles of negative emotion, vulnerability, and human imperfection in aesthetic, moral, and interpersonal life.
+        I am a doctoral candidate in philosophy at <a href="https://philosophy.umd.edu/directory/xintong-wang">the University of Maryland, College Park</a>. My research lies at the intersection of ethics, philosophy of emotion, and philosophy of art. My dissertation explores the “dark sides” of our lives as emotional beings, especially the roles of negative emotion and vulnerability in aesthetic, moral, and interpersonal life. I'm currently working on projects investigating the value of negative emotions in art; the relationship between imagination and emotion in fiction; and how weaknesses contribute to love.
       </p>
 
       <p>
