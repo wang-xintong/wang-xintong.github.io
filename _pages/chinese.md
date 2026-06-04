@@ -60,7 +60,7 @@ author_profile: true
 2019年 “对赫施“解释有效性”的再解读”，江苏省研究生“艺术前沿问题”学术创新论坛
 </div>
 
-<div class="section-title">教学</div>
+<div class="section-title">教学（助教）</div>
 
 <div class="teaching-item">认识你自己：认知科学视角的智慧，2026年春季，UMD</div>
 <div class="teaching-item">古希腊与罗马哲学，2025年秋季，UMD</div>
