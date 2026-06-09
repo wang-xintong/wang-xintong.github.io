@@ -48,7 +48,7 @@ share: false
   </p>
 
   <p>
-    这是我的 <a href="/files/cv.pdf">简历</a>，欢迎邮件联系 <a href="mailto:xtwang@umd.edu">xtwang@umd.edu</a>。
+    这是我的 <a href="/cv/"> 简历 </a> ，欢迎邮件联系 <a href="mailto:xtwang@umd.edu">xtwang@umd.edu</a>。
   </p>
 
   <div class="chinese-section">
