@@ -7,4 +7,4 @@ share: false
 
 You can download my CV [here](/files/cv.pdf).
 
-您可以点击下载我的[简历](/files/chinese-cv.pdf)。
+您可以点击下载我的[中文简历](/files/chinese-cv.pdf)。
