@@ -40,6 +40,7 @@ share: false
     <div class="teaching-section-title">Teaching Assistant</div>
 
     <ul class="teaching-list">
+      <li>The Rights and Wrongs of Killing People, 2026 Fall, UMD</li>
       <li>Know Thyself: Wisdom Through Cognitive Science, 2026 Spring, UMD</li>
       <li>Ancient Greek and Roman Philosophy, 2025 Fall, UMD</li>
       <li>Introduction to Philosophy, 2025 Spring/2024 Fall, UMD</li>
