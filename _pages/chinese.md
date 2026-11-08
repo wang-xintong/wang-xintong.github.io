@@ -84,6 +84,7 @@ share: false
     <div class="chinese-section-title">教学（助教）</div>
 
     <ul class="chinese-list">
+      <li>杀人的权利与道德是非，2026年秋季，UMD</li>
       <li>认识你自己：认知科学视角的智慧，2026年春季，UMD</li>
       <li>古希腊与罗马哲学，2025年秋季，UMD</li>
       <li>哲学导论，2025年春季/2024年秋季，UMD</li>
