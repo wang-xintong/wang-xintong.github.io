@@ -111,7 +111,7 @@ share: false
     <div class="research-section-title">Recent/Upcoming Talks</div>
 
     <ul class="talk-list">
-      <li>2027 “Experiential Imagination and Emotion in Fiction,” American Philosophical Association (Eastern Division), Boston, MA.</li>
+      <li>2027 “Experiential Imagination and Emotion in Fiction,” <em>American Philosophical Association (Eastern Division), Boston, MA.</li>
 
       <li>2026 “From Fluency to Liking? Processing Experience, Affect, and Aesthetic Liking,” <em>The International Society for the Philosophy of the Mind Sciences</em>, online.</li>
 </ul>
