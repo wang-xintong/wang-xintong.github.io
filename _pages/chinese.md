@@ -67,17 +67,21 @@ share: false
 
   </div>
 
-  <div class="chinese-section">
+<div class="chinese-section">
 
-    <div class="chinese-section-title">会议</div>
+  <div class="chinese-section-title">会议</div>
 
-    <ul class="chinese-list">
-      <li>2027年 “虚构中的体验性想象与情感”，美国哲学协会（东部分会），马萨诸塞州波士顿</li>
-      <li>2026年 “从加工流畅性到审美偏好?加工体验、情感与审美偏好”，国际心智科学哲学学会年会 (ISPMS)，线上</li>
-      <li>2019年 “对赫施‘解释有效性’的再解读”，江苏省研究生“艺术前沿问题”学术创新论坛</li>
-    </ul>
+  <ul class="chinese-list">
+    <li>2027年 “负面情感的诱惑与人之不完美：‘痛苦艺术悖论’的非享乐主义解答”，美国美学学会（太平洋分会），加利福尼亚州伯克利</li>
 
-  </div>
+    <li>2027年 “虚构中的体验性想象与情感”，美国哲学协会（东部分会），马萨诸塞州波士顿</li>
+
+    <li>2026年 “从加工流畅性到审美偏好？加工体验、情感与审美偏好”，国际心智科学哲学学会年会（ISPMS），线上</li>
+
+    <li>2019年 “对赫施‘解释有效性’的再解读”，江苏省研究生“艺术前沿问题”学术创新论坛</li>
+  </ul>
+
+</div>
 
   <div class="chinese-section">
 
